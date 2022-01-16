@@ -7,9 +7,8 @@
 - 📝 I regularly write articles on [https://abdelhadielouragli.medium.com/](https://abdelhadielouragli.medium.com/)
 
 - 📫 How to reach me **abel-oua@student.1337.ma**
+## Contact me
 
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aelouragli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aelouragli" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abdelprod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelprod" height="30" width="40" /></a>
@@ -30,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devdelx&show_icons=true&locale=en" alt="devdelx" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devdelx&" alt="devdelx" /></p>
-
