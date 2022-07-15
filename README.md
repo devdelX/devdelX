@@ -7,6 +7,10 @@
 - 📝 I regularly write articles on [https://abdelhadielouragli.medium.com/](https://abdelhadielouragli.medium.com/)
 
 - 📫 How to reach me **abel-oua@student.1337.ma**
+
+<a href="https://app.daily.dev/devdel"><img src="https://api.daily.dev/devcards/b45345e7111e41a38d74c573f25dbbc4.png?r=p4j" width="400" alt="Abdelhadi Elouarguli's Dev Card"/></a>
+
+
 ## Contact me
 
 <p align="left">
