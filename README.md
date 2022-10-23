@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2323F715&vCenter=true&lines=Thanks+for+visting;If+your+a+42+Student;Click+below;Thanks+for+visting;If+your+a+42+Student;Click+below;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2323F715&vCenter=true&lines=Hey+There!;I'm+Abdel;Thanks+for+visting;)](https://git.io/typing-svg)
 
 [![abel-oua's 42 stats](https://badge.mediaplus.ma/greenbinary/abel-oua)](https://github.com/oakoudad/badge42)
 
