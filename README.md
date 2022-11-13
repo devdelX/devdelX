@@ -17,7 +17,7 @@
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,bash,vim,vscode,html,css,js,ts,react,nextjs,tailwind,bootstrap,vercel,wordpress,solidity,git,figma,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,bash,vim,vscode,html,css,js,ts,solidity,react,nextjs,tailwind,bootstrap,vercel,wordpress,git,figma,)](https://skillicons.dev)
 
 
 
